@@ -10,6 +10,9 @@ venv/
 data/*.csv
 !data/sample_pitches.csv
 models/*.pkl
+models/*.gpickle
+models/*.csv
+models/*.json
 reports/*.html
 reports/*.csv
 .DS_Store
