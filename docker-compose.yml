@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: sharkgraph_db
+    environment:
+      POSTGRES_DB: sharkgraph
+      POSTGRES_USER: shark
+      POSTGRES_PASSWORD: sharkpass
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./sql/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql
+      - ./sql/views:/docker-entrypoint-initdb.d/views
+      - ./sql/marts:/docker-entrypoint-initdb.d/marts
+
+volumes:
+  pgdata:

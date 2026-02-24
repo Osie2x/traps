@@ -1,0 +1,31 @@
+season,episode,company_name,industry,description,asked_amount,asked_equity,deal_made,deal_amount,deal_equity,shark1,shark1_invested,shark1_offer_amount,shark1_offer_equity,shark2,shark2_invested,shark2_offer_amount,shark2_offer_equity,shark3,shark3_invested,shark3_offer_amount,shark3_offer_equity,shark4,shark4_invested,shark4_offer_amount,shark4_offer_equity,shark5,shark5_invested,shark5_offer_amount,shark5_offer_equity,location,multi_shark
+1,1,Ava the Elephant,Health/Wellness,A talking medicine dispenser,50000,0.25,1,50000,0.55,Barbara Corcoran,1,50000,0.55,Kevin O'Leary,0,,,Daymond John,0,,,Robert Herjavec,0,,,Kevin Harrington,0,,,Dallas TX,0
+1,1,Mr Tod Pie Factory,Food/Beverage,Gourmet sweet potato pie,460000,0.10,0,,,Barbara Corcoran,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Robert Herjavec,0,,,Kevin Harrington,0,,,Somerville NJ,0
+1,2,Ionic Ear,Technology/Electronics,Bluetooth earpiece implant,1000000,0.15,0,,,Barbara Corcoran,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Robert Herjavec,0,,,Kevin Harrington,0,,,San Diego CA,0
+1,2,Wispots,Technology/Electronics,Social networking platform,500000,0.10,0,,,Barbara Corcoran,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Robert Herjavec,0,,,Kevin Harrington,0,,,Chicago IL,0
+1,3,College Foxes Packing Boxes,Business Services,Moving company staffed by students,250000,0.05,1,250000,0.40,Barbara Corcoran,0,,,Kevin O'Leary,0,,,Daymond John,1,250000,0.40,Robert Herjavec,0,,,Kevin Harrington,0,,,Tampa FL,0
+1,3,A Perfect Pear,Food/Beverage,Pear-infused condiments,150000,0.15,0,,,Barbara Corcoran,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Robert Herjavec,0,,,Kevin Harrington,0,,,Portland OR,0
+2,1,Toygaroo,Children/Education,Netflix for toys rental,200000,0.10,1,200000,0.35,Mark Cuban,1,100000,0.175,Kevin O'Leary,1,100000,0.175,Daymond John,0,,,Barbara Corcoran,0,,,Robert Herjavec,0,,,Los Angeles CA,1
+2,1,eCreamery,Food/Beverage,Custom ice cream by mail,250000,0.15,1,250000,0.25,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Barbara Corcoran,0,,,Robert Herjavec,1,250000,0.25,Omaha NE,0
+2,2,Grease Monkey Wipes,Lifestyle/Home,Heavy-duty cleaning wipes,75000,0.20,0,,,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Barbara Corcoran,0,,,Robert Herjavec,0,,,San Francisco CA,0
+2,2,Qubits,Children/Education,Magnetic construction toy,120000,0.10,0,,,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Barbara Corcoran,0,,,Robert Herjavec,0,,,Portland OR,0
+3,1,Lollacup,Children/Education,Straw sippy cup,100000,0.15,1,100000,0.40,Mark Cuban,1,100000,0.40,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,San Dimas CA,0
+3,1,Groovebook,Technology/Electronics,Photo printing subscription,150000,0.08,1,150000,0.80,Mark Cuban,1,75000,0.40,Kevin O'Leary,1,75000,0.40,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,Springfield MO,1
+3,2,CoatChex,Business Services,Automated coat check service,200000,0.10,0,,,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,New York NY,0
+3,2,Chord Buddy,Children/Education,Guitar learning device,175000,0.10,1,175000,0.20,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Robert Herjavec,1,175000,0.20,Lori Greiner,0,,,Travis AL,0
+4,1,Breathometer,Technology/Electronics,Smartphone breathalyzer,250000,0.10,1,250000,0.10,Mark Cuban,1,250000,0.10,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,Burlingame CA,0
+4,1,ReadeREST,Lifestyle/Home,Magnetic eyeglass holder,150000,0.15,1,150000,0.15,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,1,150000,0.15,Robert Herjavec,0,,,Key Largo FL,0
+4,2,Scrub Daddy,Lifestyle/Home,Texture-changing sponge,100000,0.10,1,200000,0.20,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,1,200000,0.20,Robert Herjavec,0,,,Folcroft PA,0
+4,2,Cirque du Shirt,Fashion/Beauty,Custom printed t-shirts,300000,0.20,0,,,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,Orlando FL,0
+5,1,Tipsy Elves,Fashion/Beauty,Ugly holiday sweaters,100000,0.10,1,100000,0.10,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,1,100000,0.10,San Diego CA,0
+5,1,BottleKeeper,Lifestyle/Home,Insulated bottle holder,500000,0.05,0,,,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,San Diego CA,0
+5,2,Plated,Food/Beverage,Meal kit delivery service,500000,0.05,1,500000,0.05,Mark Cuban,0,,,Kevin O'Leary,1,500000,0.05,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,New York NY,0
+5,2,Remy the Robot,Technology/Electronics,Smart robotic assistant,100000,0.25,0,,,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,Boston MA,0
+6,1,BeatBox Beverages,Food/Beverage,Party punch in a box,200000,0.10,1,600000,0.33,Mark Cuban,1,600000,0.33,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,Austin TX,0
+6,1,FiberFix,Lifestyle/Home,Industrial strength repair wrap,120000,0.07,1,120000,0.10,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,1,120000,0.10,Robert Herjavec,0,,,Provo UT,0
+6,2,Ring,Technology/Electronics,Smart video doorbell,700000,0.10,0,,,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,Santa Monica CA,0
+7,1,Lumio,Lifestyle/Home,Folding book lamp,500000,0.10,1,350000,0.10,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,1,350000,0.10,San Francisco CA,0
+7,1,Bantam Bagels,Food/Beverage,Stuffed mini bagel balls,400000,0.15,1,275000,0.25,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,1,275000,0.25,Robert Herjavec,0,,,New York NY,0
+7,2,Dude Wipes,Lifestyle/Home,Flushable wipes for men,300000,0.10,1,300000,0.25,Mark Cuban,1,300000,0.25,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,Chicago IL,0
+8,1,Paq Wraps,Fashion/Beauty,Heated and cooled body wraps,200000,0.15,0,,,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,0,,,Robert Herjavec,0,,,Houston TX,0
+8,1,Simple Sugars,Health/Wellness,All-natural skincare scrubs,100000,0.10,1,100000,0.33,Mark Cuban,0,,,Kevin O'Leary,0,,,Daymond John,0,,,Lori Greiner,1,100000,0.33,Robert Herjavec,0,,,Pittsburgh PA,0
